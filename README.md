@@ -1,2 +1,3 @@
-# toxicity-detection
-Toxicity Detection in Comments using Machine Learning
+
+# Toxicity Detection in Comments using Machine Learning
+
